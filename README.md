@@ -1,4 +1,5 @@
-# 🤖 ChatMate AI
+[Google Collab Link](https://colab.research.google.com/drive/1hlyxUWP3z3Oczj3RYN18i97bm7whIHia?usp=sharing)
+# 🤖 ChatMate AI 
 
 ChatMate AI is a lightweight Generative AI chatbot built using transformer-based language models. It generates human-like responses in real time and provides an interactive chat interface using Gradio.
 
